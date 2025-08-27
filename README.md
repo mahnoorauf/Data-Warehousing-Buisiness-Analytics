@@ -1,4 +1,4 @@
-🏗️** Data Warehousing Labs**
+🏗️Data Warehousing Labs
 
 This repository contains all my hands-on lab exercises for the Data Warehousing course. These labs help me apply theory into practice, covering topics like ETL, ELT, dimensional modeling, star & snowflake schemas, analytic SQL, OLAP, data quality checks, performance optimization, and BI dashboards.
 
@@ -8,7 +8,7 @@ The labs start with foundational exercises such as comparing DW vs OLTP and runn
 
 This repository is a step-by-step record of my learning journey, showing how each lab builds on the previous one and demonstrating my ability to turn raw data into actionable insights.
 
-🎯** Topics I’ll Be Learning**
+🎯Topics I’ll Be Learning
 
 Data Warehouses vs OLTP systems & OLAP concepts
 
